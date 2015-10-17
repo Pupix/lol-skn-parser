@@ -1,0 +1,28 @@
+{
+    "name": "lol-skn-parser",
+    "license": "MIT",
+    "description": "A parser for .skn files from League of Legends.",
+    "version": "0.9.0",
+    "homepage": "https://github.com/Pupix/lol-skn-parser",
+    "author": {
+        "name": "Robert Manolea",
+        "email": "manolea.robert@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pupix/lol-skn-parser.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Pupix/lol-skn-parser/issues"
+    },
+    "dependencies": {
+        "lol-file-parser": "*",
+        "expandjs": "^0.9.0"
+    },
+    "keywords": [
+        "file parser",
+        "league of legends",
+        "lol",
+        "skn"
+    ]
+}
