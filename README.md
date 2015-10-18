@@ -13,7 +13,6 @@ lol-skn-parser is installable via:
 var SknParser = require('lol-skn-parser'),
     skn = new SknParser();
     
-    // Read the package.json file
     skn.read('Kindred_Base.skn', function (err, data) {
         console.log(data);
         //  {
